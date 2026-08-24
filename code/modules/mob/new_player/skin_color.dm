@@ -2,7 +2,7 @@
 	var/name
 	var/icon_name
 
-/datum/skin_color/human/human/cmplayer
+/datum/skin_color/human/cmplayer
 	name = "Extra Pale"
 	icon_name = "cmp1"
 
