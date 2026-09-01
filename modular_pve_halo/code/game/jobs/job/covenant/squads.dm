@@ -18,11 +18,11 @@
 	squad_type = "Lance"
 
 /datum/squad/marine/covenant_2
-	name = SQUAD_COVENANT
+	name = SQUAD_COVENANT_2
 	equipment_color = "#D1479F"
 	chat_color = "#D1479F"
 	access = list(ACCESS_UPP_GENERAL)
-	radio_freq = COV_SQ1_FREQ
+	radio_freq = COV_SQ2_FREQ
 	minimap_color = MINIMAP_SQUAD_CHARLIE
 	use_stripe_overlay = FALSE
 	usable = TRUE
