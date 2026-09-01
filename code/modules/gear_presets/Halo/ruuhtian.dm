@@ -42,7 +42,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_MINOR
 	rank = JOB_COV_MINOR
-	paygrades = list(PAY_SHORT_COV_MINOR = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_2 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "Minor"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
@@ -78,7 +78,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_MAJOR
 	rank = JOB_COV_MAJOR
-	paygrades = list(PAY_SHORT_COV_MAJOR = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_5 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "Major"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
@@ -114,7 +114,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_ULTRA
 	rank = JOB_COV_ULTRA
-	paygrades = list(PAY_SHORT_COV_ULTRA = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_U1 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "Ultra"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
@@ -161,7 +161,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_MARKSMAN
 	rank = JOB_COV_MARKSMAN
-	paygrades = list(PAY_SHORT_COV_MINOR = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_2 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "Marksman"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
@@ -185,7 +185,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_SNIPER
 	rank = JOB_COV_SNIPER
-	paygrades = list(PAY_SHORT_COV_MAJOR = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_5 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "Sniper"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
@@ -217,7 +217,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_SPECOPS
 	rank = JOB_COV_SPECOPS
-	paygrades = list(PAY_SHORT_COV_MAJOR = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_5 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "SpecOps"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
@@ -282,7 +282,7 @@
 	access = list(ACCESS_MARINE_PREP)
 	assignment = JOB_COV_SPECOPS
 	rank = JOB_COV_SPECOPS
-	paygrades = list(PAY_SHORT_COV_ULTRA = JOB_PLAYTIME_TIER_0)
+	paygrades = list(PAY_SHORT_COV_U1 = JOB_PLAYTIME_TIER_0)
 	role_comm_title = "SpecOps Ultra"
 	skills = /datum/skills/covenant/unggoy
 	languages = list(LANGUAGE_SANGHEILI)
